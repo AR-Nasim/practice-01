@@ -21,12 +21,14 @@
     background-size: cover;
 }
 .work{
-    height: 750px;
+
     background-image: url(img/latest-work-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 100px 0;
 }
 .footer{
+
     background-image: url(img/footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +61,7 @@
     text-align: center;
 }
 .message{
-    width: 50%;
+    width: 650px;
     height: 200px;
     background-color: #FF4992;
     border-radius: 10px;
@@ -76,4 +78,7 @@ footer{
     margin: 5px 0;
     text-align: center;
     color: gray;
+}
+#quote{
+    width: 25%;
 }
